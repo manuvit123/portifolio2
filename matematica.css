@@ -113,3 +113,28 @@ main {
 .voltar a:hover {
     background-color:rgb(16, 23, 124);
 }
+
+.rodape {
+    background-color: rgb(16, 23, 124);
+    padding-top: 15px;
+    width: 100%;
+    height: 100px;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.centralizado  {
+    display: flex;
+    justify-content: center;
+}
+
+.meio {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.membros {
+    display: flex;
+    justify-content: center;
+    line-height: 35px;
+}

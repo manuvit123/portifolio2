@@ -85,3 +85,29 @@ main {
 body {
     background-color: #b7da94; /* tom suave esverdeado */
 }
+
+.rodape {
+    background-color: olivedrab;
+    display: block;
+    box-sizing: border-box;
+    padding-top: 15px;
+    width: 100%;
+    height: 100px;
+    justify-content: flex-end;
+}
+
+.centralizado  {
+    display: flex;
+    justify-content: center;
+}
+
+.meio {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.membros {
+    display: flex;
+    justify-content: center;
+    line-height: 35px;
+}
